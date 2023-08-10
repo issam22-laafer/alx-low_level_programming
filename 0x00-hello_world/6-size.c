@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *  main - Entry point
+ * main - Entry point
  *
- *  Description: using sizeof to print the size of varios.
+ * Description: using sizeof to print the size of varios.
  *
- *  Return Always 0 (success)
+ * Return Always 0 (success)
 */
 
 int main(void)
