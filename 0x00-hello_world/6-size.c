@@ -3,9 +3,9 @@
 /**
  *  main - Entry point
  *
- *  Description: using sizeof to print the size.
+ *  Description: using sizeof to print the size of varios.
  *
- *  Return Always 0 (sucess)
+ *  Return Always 0 (success)
 */
 
 int main(void)
